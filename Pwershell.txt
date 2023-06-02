@@ -1,0 +1,2 @@
+New-Website -Name 'WEb Entête PSH' -PhysicalPath C:\_Web\EntêtePSH ` 
+            -IPAddress 10.57.4.1 -Hostheader  www.cie1.AM4 
